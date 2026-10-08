@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>One square kilometre</name><Polygon><outerBoundaryIs><LinearRing><coordinates>0,0 0.008983,0 0.008983,0.008983 0,0.008983 0,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Survey line</name><LineString><coordinates>0,0 0.008983,0</coordinates></LineString></Placemark></Document></kml>
